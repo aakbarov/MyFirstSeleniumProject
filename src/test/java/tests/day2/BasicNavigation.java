@@ -28,7 +28,7 @@ public class BasicNavigation {
         //selenium cannot close browser automatically
         //for this, we use method close()
 
-        //sagol tabriz
+        //sagol tabriz * 2
         driver.quit();
 
 
